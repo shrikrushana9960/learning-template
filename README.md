@@ -2,6 +2,9 @@
 
 Website starting learning template with react
 [Backend express](https://github.com/shrikrushana9960/learning-backend/tree/main)
+
+## check out live website
+[Demo](https://shrikrushana9960.github.io/learning-template/)
 ## Installation
 
 how to run
