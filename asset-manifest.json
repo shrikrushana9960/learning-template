@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/learning-backend/static/css/main.2df620c1.chunk.css",
-    "main.js": "/learning-backend/static/js/main.02df7585.chunk.js",
-    "main.js.map": "/learning-backend/static/js/main.02df7585.chunk.js.map",
-    "runtime-main.js": "/learning-backend/static/js/runtime-main.82cd2fd0.js",
-    "runtime-main.js.map": "/learning-backend/static/js/runtime-main.82cd2fd0.js.map",
-    "static/js/2.e3267951.chunk.js": "/learning-backend/static/js/2.e3267951.chunk.js",
-    "static/js/2.e3267951.chunk.js.map": "/learning-backend/static/js/2.e3267951.chunk.js.map",
-    "index.html": "/learning-backend/index.html",
-    "precache-manifest.4ded522ffaebe7820311f7ad4ccf4914.js": "/learning-backend/precache-manifest.4ded522ffaebe7820311f7ad4ccf4914.js",
-    "service-worker.js": "/learning-backend/service-worker.js",
-    "static/css/main.2df620c1.chunk.css.map": "/learning-backend/static/css/main.2df620c1.chunk.css.map",
-    "static/js/2.e3267951.chunk.js.LICENSE.txt": "/learning-backend/static/js/2.e3267951.chunk.js.LICENSE.txt"
+    "main.css": "/learning-template/static/css/main.2df620c1.chunk.css",
+    "main.js": "/learning-template/static/js/main.02df7585.chunk.js",
+    "main.js.map": "/learning-template/static/js/main.02df7585.chunk.js.map",
+    "runtime-main.js": "/learning-template/static/js/runtime-main.71329c69.js",
+    "runtime-main.js.map": "/learning-template/static/js/runtime-main.71329c69.js.map",
+    "static/js/2.e3267951.chunk.js": "/learning-template/static/js/2.e3267951.chunk.js",
+    "static/js/2.e3267951.chunk.js.map": "/learning-template/static/js/2.e3267951.chunk.js.map",
+    "index.html": "/learning-template/index.html",
+    "precache-manifest.d488f32b2002a0f9596104c472eec98c.js": "/learning-template/precache-manifest.d488f32b2002a0f9596104c472eec98c.js",
+    "service-worker.js": "/learning-template/service-worker.js",
+    "static/css/main.2df620c1.chunk.css.map": "/learning-template/static/css/main.2df620c1.chunk.css.map",
+    "static/js/2.e3267951.chunk.js.LICENSE.txt": "/learning-template/static/js/2.e3267951.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82cd2fd0.js",
+    "static/js/runtime-main.71329c69.js",
     "static/js/2.e3267951.chunk.js",
     "static/css/main.2df620c1.chunk.css",
     "static/js/main.02df7585.chunk.js"
